@@ -1,4 +1,7 @@
-package Level_1.sprint1Tasca1_6_Nivell1_ex2;
+package Level_1.Exercise_2;
+
+import Level_1.Exercise_2.model.GenericMethods;
+import Level_1.Exercise_2.model.Person;
 
 public class Main {
 

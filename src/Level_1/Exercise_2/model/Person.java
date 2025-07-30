@@ -1,9 +1,8 @@
-package Level_1.sprint1Tasca1_6_Nivell1_ex2;
+package Level_1.Exercise_2.model;
 
 public class Person {
 	
-	private String name;
-	private String surname;
+	private String name, surname;
 	private int age;
 	
 	public Person(String name, String surname, int age) {

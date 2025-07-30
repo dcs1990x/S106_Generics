@@ -1,4 +1,4 @@
-package Level_1.sprint1Tasca1_6_Nivell1_ex1;
+package Level_1.Exercise_1;
 
 public class Main {
 
